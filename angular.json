@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "miApp"
+    }
+  },
+  "defaultProject": "miApp",
+  "cli": {
+    "analytics": false
+  }
 }
